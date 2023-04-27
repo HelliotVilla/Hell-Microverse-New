@@ -47,8 +47,6 @@ Html & CSS
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - HTML File
 - CSS File
 - Gitignore File
@@ -68,7 +66,6 @@ Current progress
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 This is an example to develop skills and best practices in web development projects
 
@@ -104,17 +101,15 @@ Helliot Villarroel
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/HelliotVilla)
-- Twitter: [@twitterhandle](https://twitter.com/helliotB)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/helliot-villarroel-rojas-6430aab6/)
+- GitHub: [@HelliotVilla](https://github.com/HelliotVilla)
+- Twitter: [@helliotB](https://twitter.com/helliotB)
+- LinkedIn: [https://www.linkedin.com/in/helliot-villarroel-rojas-6430aab6/](https://linkedin.com/in/helliot-villarroel-rojas-6430aab6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - HTML content
 - CSS Styling
